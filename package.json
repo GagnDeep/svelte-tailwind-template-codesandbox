@@ -11,12 +11,7 @@
     "sirv-cli": "^0.3.1"
   },
   "dependencies": {
-    "copy-to-clipboard": "3.3.1",
-    "lodash": "4.17.20",
-    "moment": "2.29.1",
-    "svelte": "3.24.1",
-    "svelte-advanced-store": "0.0.4",
-    "uid": "2.0.0"
+    "svelte": "3.42.4"
   },
   "scripts": {
     "build": "rollup -c",
